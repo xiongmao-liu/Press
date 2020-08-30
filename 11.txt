@@ -1,0 +1,7 @@
+.filter(data => !search || data.name.toLowerCase().includes(search.toLowerCase()))
+
+
+||  data.op.toLowerCase().includes(form.op.toLowerCase()))
+
+
+.filter(data => !form.op || data.Op.toLowerCase()=form.op.toLowerCase())
